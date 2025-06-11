@@ -1,0 +1,15 @@
+[
+  {
+    "type": "Developer",
+    "hoursWorked": 50,
+    "hourlyRate": 100.0,
+    "name": "Dmytro ",
+    "id": 2
+  },
+  {
+    "type": "Intern",
+    "stipend": 6000.0,
+    "name": "Maria",
+    "id": 3
+  }
+]
